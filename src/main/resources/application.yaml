@@ -1,0 +1,13 @@
+app:
+  reset-batch-script:
+    start-time: 0 13 12 * * *
+    map:
+      ## ?script ??
+      STOP_ACTIVE_FLOWCHART: value1
+      KILL_UNICA_TASK: value2
+      STOP_WAS: value3
+      START_WAS: value3
+      START_CMP_SERVER: value4
+      HOUSE_KEEPING: value4
+
+
